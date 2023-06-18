@@ -2,7 +2,8 @@ import Image from 'next/image';
 
 export const metadata = {
 	title: 'NextJS 13 tutorial 1',
-	description: 'nextjs 13 tutorial 1 - authentication',
+	description:
+		'nextjs 13 tutorial 1 - authentication using next-auth and mongoose',
 };
 
 export default function Home() {
